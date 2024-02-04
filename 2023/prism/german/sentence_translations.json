@@ -74,7 +74,7 @@
  {
   "input": "When light enters a medium, like glass, it slows down, in the sense that if you look at the crests of the wave, in a vacuum those crests are traveling at c, the speed of light, but inside the glass those crests will be traveling a little bit slower.",
   "model": "nmt",
-  "translatedText": "Wenn Licht in ein Medium wie Glas eintritt, verlangsamt es sich in dem Sinne, dass sich diese Wellenkämme im Vakuum mit c, der Lichtgeschwindigkeit, bewegen, wenn man sich die Wellenkämme ansieht, im Glas jedoch etwas langsamer unterwegs sein.",
+  "translatedText": "Wenn Licht in ein Medium wie Glas eindringt, wird es in dem Sinne abgebremst, dass wenn man sich die Wellenkämme ansieht, sich diese im Vakuum mit c, der Lichtgeschwindigkeit, fortbewegen, während sich die Wellenkämme im Glas ein wenig langsamer bewegen.",
   "time_range": [
    60.3,
    74.06
@@ -101,7 +101,7 @@
  {
   "input": "The way my high school physics teacher always explained this was to imagine a tank going from some region where it can travel relatively quickly, like concrete, into something slower, like mud, where if it's coming in at an angle, then as one of its treads hits the slow region first, that tread will be going slower while the other one is faster, causing the whole tank to steer a little bit until that second tread also enters the mud, then it continues straight just traveling a little slower.",
   "model": "nmt",
-  "translatedText": "Die Art und Weise, wie mein Physiklehrer an der Highschool dies immer erklärte, bestand darin, sich einen Panzer vorzustellen, der von einer Region, in der er sich relativ schnell fortbewegen kann, wie Beton, in etwas Langsameres, wie Schlamm, gelangt, wo er, wenn er schräg eindringt, als einer von ihnen gilt Wenn die Profilstufe zuerst auf den langsamen Bereich trifft, fährt diese Profilstufe langsamer, während die andere schneller ist, was dazu führt, dass der gesamte Panzer ein wenig lenkt, bis auch die zweite Profilstufe in den Schlamm eindringt. Dann fährt er geradeaus weiter, nur etwas langsamer.",
+  "translatedText": "Die Art und Weise wie mein Physikprofessor in der High School es erklärte war wie folgt: Stellen Sie sich einen Panzer vor, der sich von einem gut befahrbaren Bereich, wie Beton, zu einem schlechteren, wie Schlamm, bewegt. Falls er in einem Winkel einfährt, so berührt eine Kette den langsameren Bereich zuerst und wird abgebremst, während die andere Kette schneller ist, was dazu führt, dass der ganze Panzer lenkt, bis auch die zweite Kette in den Schlamm eindringt. Dann fährt er geradeaus weiter, nur etwas langsamer.",
   "time_range": [
    98.8,
    124.0
@@ -110,7 +110,7 @@
  {
   "input": "We'll get back to the actual reason for bending in a bit, but at this point the high school physics students typically learn a law known as Snell's law which specifies exactly how much things bend.",
   "model": "nmt",
-  "translatedText": "Wir werden noch einmal auf den eigentlichen Grund für die Biegung zurückkommen, aber an diesem Punkt lernen die Physikstudenten in der Oberstufe normalerweise ein Gesetz kennen, das als Snelliussches Gesetz bekannt ist und genau angibt, wie stark sich Dinge biegen.",
+  "translatedText": "Wir werden in Kürze auf den eigentlichen Grund für die Biegung zurückkommen, aber an diesem Punkt lernen die Physikstudenten in der Oberstufe normalerweise ein Gesetz kennen, das als Snelliussches Gesetz bekannt ist und genau angibt, wie stark sich Dinge biegen.",
   "time_range": [
    124.88,
    134.74
@@ -146,7 +146,7 @@
  {
   "input": "Most of the light you see is not a clean pure sine wave, in particular the white light coming from the sun is not a clean sine wave, it's something much messier, but it can be expressed as a sum of a bunch of clean sine waves, each one corresponding to a pure spectral color.",
   "model": "nmt",
-  "translatedText": "Das meiste Licht, das Sie sehen, ist keine reine Sinuswelle, insbesondere das weiße Licht der Sonne ist keine reine Sinuswelle, es ist etwas viel Unordentlicheres, aber es kann als Summe einer Reihe sauberer Sinuswellen ausgedrückt werden , wobei jede einzelne einer reinen Spektralfarbe entspricht.",
+  "translatedText": "Das meiste Licht, das Sie sehen, ist keine reine Sinuswelle, insbesondere das weiße Licht der Sonne ist keine reine Sinuswelle. Es ist etwas viel Unordentlicheres, aber es kann als Summe einer Reihe sauberer Sinuswellen ausgedrückt werden, wobei jede einzelne einer reinen Spektralfarbe entspricht.",
   "time_range": [
    173.1,
    187.7
@@ -182,7 +182,7 @@
  {
   "input": "And what exactly do we mean by slowing down?",
   "model": "nmt",
-  "translatedText": "Und was genau meinen wir mit Entschleunigung?",
+  "translatedText": "Und was genau meinen wir mit langsamer werden?",
   "time_range": [
    209.04,
    211.24
@@ -209,7 +209,7 @@
  {
   "input": "If you have a sufficiently high standard for explanations, you want both of these facts to feel discovered, rather than feeling like they were handed down.",
   "model": "nmt",
-  "translatedText": "Wenn Sie einen ausreichend hohen Anspruch an Erklärungen haben, möchten Sie, dass sich beide Fakten entdeckt und nicht tradiert anfühlen.",
+  "translatedText": "Wenn Sie einen ausreichend hohen Anspruch an Erklärungen haben, möchten Sie, dass sich beide Fakten entdeckt und nicht weitergereicht anfühlen.",
   "time_range": [
    219.67999999999998,
    227.32
